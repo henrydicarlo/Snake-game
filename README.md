@@ -1,2 +1,5 @@
 # Snake-game
- Snake game made with PyGame
+ Snake feito com Pygame
+
+ Para jogar o jogo basta rodar o "main.py"
+ 
